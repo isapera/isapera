@@ -1,2 +1,2 @@
-<img src="./banner.gif" alt="banner" width="100%" />
+<img src="./olá.gif" alt="banner" width="100%" />
 
