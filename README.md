@@ -15,6 +15,7 @@ Formada em **Análise e Desenvolvimento de Sistemas** e cursando **Sistemas para
   <img src="https://img.shields.io/badge/GitHub-fbcfe8?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   <img src="https://img.shields.io/badge/Netlify-fbcfe8?style=for-the-badge&logo=netlify&logoColor=000000" alt="Netlify" />
   <img src="https://img.shields.io/badge/Figma-fbcfe8?style=for-the-badge&logo=figma&logoColor=000000" alt="Figma" />
+  <img src="https://img.shields.io/badge/IA-fbcfe8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMDAwMCI+PHBhdGggZD0iTTEyIDFsMi43IDguM0wyMyAxMmwtOC4zIDIuN0wxMiAyM2wtMi43LTguM0wxIDEybDguMy0yLjdMMTIgMXoiLz48L3N2Zz4=&logoColor=000000" alt="IA" />
   <img src="https://img.shields.io/badge/VS%20Code-fbcfe8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwMDAwMCI+PHBhdGggZD0iTTE3LjUgMGwtOS42IDkuMkwzLjYgNS44IDEgNy4xdjkuOGwyLjYgMS4zIDQuMy0zLjQgOS42IDkuMkwyMyAyMS44VjIuMkwxNy41IDB6bTAgNi42djEwLjhsLTYuNy01LjQgNi43LTUuNHoiLz48L3N2Zz4=&logoColor=000000" alt="VS Code" />
 </p>
 
