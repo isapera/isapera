@@ -10,6 +10,10 @@ Formada em **Análise e Desenvolvimento de Sistemas** e cursando **Sistemas para
   <img src="https://img.shields.io/badge/JavaScript-fbcfe8?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-fbcfe8?style=for-the-badge&logo=python&logoColor=000000" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-fbcfe8?style=for-the-badge&logo=nodedotjs&logoColor=000000" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-fbcfe8?style=for-the-badge&logo=mysql&logoColor=000000" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-fbcfe8?style=for-the-badge&logo=git&logoColor=000000" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-fbcfe8?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Netlify-fbcfe8?style=for-the-badge&logo=netlify&logoColor=000000" alt="Netlify" />
   <img src="https://img.shields.io/badge/Figma-fbcfe8?style=for-the-badge&logo=figma&logoColor=000000" alt="Figma" />
 </p>
 
